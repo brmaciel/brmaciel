@@ -1,6 +1,6 @@
 ### 🇺🇸 Hi there | 🇧🇷 Olá | 🇩🇪 Hallo 👋
 
-#### I’m currently working as Mobile Software Engineer (native iOS) 📱
+#### 🧑🏻‍💻 I’m currently working as Mobile Software Engineer (native iOS ) 📱
 
 <!---
 - 🌱 I’m currently planning on learning Flutter and DevOps
